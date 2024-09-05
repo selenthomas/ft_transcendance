@@ -1,8 +1,7 @@
 # ft_transcendance
-Projet web fullstack en groupe | 42 Paris
 
-avr. 2024 - juin 2024 · 3 moisDu avr. 2024 au juin 2024 · 3 mois
-Projet web fullstack en groupe
+Projet web fullstack en groupe | 42 Paris
+avr. 2024 - juin 2024 · 3 mois
 
 Technologies :
  - Frontend : SPA (Single Page Application) développée avec Vanilla JavaScript et Bootstrap
