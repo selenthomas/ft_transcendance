@@ -1,0 +1,11 @@
+{
+    "id": 42,
+    "username": "sethomas",
+    "realname": "selen Thomas",
+    "email": "sethomas@student.42.fr",
+    "password": "root",
+    "avatar": "/avatars/default.png",
+    "biography": "born in 1981",
+    "token": "asupertoken",
+    "socket_id": 42
+}

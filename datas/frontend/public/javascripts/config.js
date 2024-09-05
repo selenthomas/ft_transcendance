@@ -1,0 +1,8 @@
+export const USER_STATUS = {
+    OFFLINE : 0,
+    ONLINE : 1,
+    PLAYING : 2,
+    WAITING_PLAYER : 3,
+    WAITING_FRIEND : 4,
+    WAITING_TOURNAMENT : 5
+}
