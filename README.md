@@ -1,4 +1,4 @@
-Projet Transcendance – École 42
+# Projet Transcendance – École 42
 
 ## Description :
 Le projet Pong Tournament Web Application est une application web interactive permettant aux utilisateurs de jouer à Pong, de participer à des tournois en ligne, et de gérer des interactions sociales. Le projet utilise Django et Django REST Framework pour le backend, tout en respectant les exigences de sécurité et de performance pour une expérience utilisateur fluide et sécurisée.
@@ -23,9 +23,9 @@ Le projet Pong Tournament Web Application est une application web interactive pe
 - **Gestion des Utilisateurs et Sécurité :** Implémentation d’une authentification sécurisée avec 2FA et JWT, gestion des utilisateurs et des tournois, avec un accent particulier sur la sécurité et la protection des données.
 
 ## Technologies Utilisées :
-**Sécurité :** HTTPS, 2FA, JWT.
 [![Technologies](https://skillicons.dev/icons?i=js,bootstrap,python,django,mariadb&theme=light)](https://skillicons.dev)
 
+**Sécurité :** HTTPS, 2FA, JWT
 
 ## Résultats :
 Livraison d’une application web interactive avec une fonctionnalité de jeu en temps réel et des fonctionnalités complètes de gestion des utilisateurs et des tournois.
