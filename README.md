@@ -23,7 +23,7 @@ Le projet Pong Tournament Web Application est une application web interactive pe
 - **Gestion des Utilisateurs et Sécurité :** Implémentation d’une authentification sécurisée avec 2FA et JWT, gestion des utilisateurs et des tournois, avec un accent particulier sur la sécurité et la protection des données.
 
 ## Technologies Utilisées :
-[![Technologies](https://skillicons.dev/icons?i=js,bootstrap,python,django,mariadb&theme=light)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=docker,nginx,js,bootstrap,python,django,mariadb&theme=light)](https://skillicons.dev)
 
 **Sécurité :** HTTPS, 2FA, JWT
 
